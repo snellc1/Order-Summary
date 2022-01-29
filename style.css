@@ -30,7 +30,7 @@ body {
 
 #order-wrapper {
     margin: 90px auto;
-    background-image: url(/images/illustration-hero.svg);
+   /* background-image: url(/images/illustration-hero.svg);*/
     background-repeat: no-repeat;    
     width: 400px;
     height: 640px;
