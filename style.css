@@ -22,6 +22,12 @@ body {
     margin: 0 auto;   
 }
 
+#banner {
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
 #order-wrapper {
     margin: 90px auto;
     background-image: url(/images/illustration-hero.svg);
@@ -33,9 +39,7 @@ body {
     text-align: center;
 }
 
-#detail-wrapper {
-    padding-top: 220px;  
-}
+
 
 
 h1 {  
