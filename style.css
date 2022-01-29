@@ -29,9 +29,7 @@ body {
 }
 
 #order-wrapper {
-    margin: 90px auto;
-   /* background-image: url(/images/illustration-hero.svg);*/
-    background-repeat: no-repeat;    
+    margin: 90px auto;  
     width: 400px;
     height: 640px;
     background-color: #FFF;
